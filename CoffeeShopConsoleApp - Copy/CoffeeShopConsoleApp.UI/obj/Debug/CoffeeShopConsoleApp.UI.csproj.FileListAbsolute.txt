@@ -1,0 +1,6 @@
+\\psf\Home\Desktop\CoffeeShopConsoleApp\CoffeeShopConsoleApp.UI\bin\Debug\CoffeeShopConsoleApp.UI.exe.config
+\\psf\Home\Desktop\CoffeeShopConsoleApp\CoffeeShopConsoleApp.UI\bin\Debug\CoffeeShopConsoleApp.UI.exe
+\\psf\Home\Desktop\CoffeeShopConsoleApp\CoffeeShopConsoleApp.UI\bin\Debug\CoffeeShopConsoleApp.UI.pdb
+\\psf\Home\Desktop\CoffeeShopConsoleApp\CoffeeShopConsoleApp.UI\obj\Debug\CoffeeShopConsoleApp.UI.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\CoffeeShopConsoleApp\CoffeeShopConsoleApp.UI\obj\Debug\CoffeeShopConsoleApp.UI.exe
+\\psf\Home\Desktop\CoffeeShopConsoleApp\CoffeeShopConsoleApp.UI\obj\Debug\CoffeeShopConsoleApp.UI.pdb
