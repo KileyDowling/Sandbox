@@ -17,7 +17,7 @@ namespace testing
             int selectedNum = int.Parse(input);
 
            int locationFound = newTest.binarySearch(numbers, selectedNum);
-            if(locationFound > 0)
+            if(locationFound >= 0)
                 Console.WriteLine("\n{0} was found at location {1}", selectedNum,locationFound);
             Console.ReadLine();
 

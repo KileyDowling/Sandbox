@@ -17,24 +17,22 @@ namespace testing
 
             while (min <= max)
             {
+                count++;
+                Console.WriteLine("Loop number: {0}", count);
+
                 Console.WriteLine("Searching at index {0}...", search);
                 if (setOfNums[search] < selectedNum)
                 {
                     min = search + 1;
                     search = (max + min) / 2;
-                    count++;
-                    Console.WriteLine("Loop number: {0}", count);
                 }
                 else if (setOfNums[search] > selectedNum)
                 {
                     max = search - 1;
                     search = (max + min)/2;
-                    count++;
-                    Console.WriteLine("Loop number: {0}", count);
                 }
                 else
                 {
-                    count++;
                     Console.WriteLine("Total Loops: {0}", count);
                     return search;
                 }
